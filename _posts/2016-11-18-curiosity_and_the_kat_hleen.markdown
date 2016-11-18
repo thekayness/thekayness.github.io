@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Curiosity and the Kat(hleen)"
+date:   2016-11-18 15:30:04 +0000
+---
+
+It's a beautiful morning, the sun is shining, the leaves are tumbling around in the wind, and I am reading intently about the Arch distribution of Linux (RTFM FTW).  This is my life now!  My curiosity surrounding all things computer-related has absolutely reached critical mass and I can't devour all the articles, tutorials, and projects fast enough.  When I started on this journey to learn more about computer programming almost exactly a year ago today I had no sense of what was coming or how it would completely change my life and how I view the world.
+
+Programmatic thinking starts to seep into your brain the longer you spend on this topic.  I've gotten a better sense of how my brain forms a conceptual framework around a new tool or method.  I've started collecting my own little programming-isms, such as "A different error is a good error." or, "Spend more time in the sandbox.", also "I came up with this solution by throwing spaghetti until some code stuck." I adore being a teaching assistant at a local introduction to programming class, helping students ascend mountains I only just summited myself a month or two prior.  Whenever I attend a meetup I always feel like I'm among friends!  In fact, now I am usually among actual friends at these events since a tight-knit group of incredible people formed around local classes, hackathons and meetups (C really brings people together).
+
+Introspecting on where this journey has taken me today, I have to say I wouldn't have it any other way.  There's always something new to learn, and always amazing people around to learn with!  My biggest takeaway from all these recent months of studying/buiding/learning/rebuilding is this: we often silo various subjects (such as cars) as this body of knowledge behind this impenetrable wall that only the initiated (mechanics) are permitted to access.  There are so many resources available and people who would love to answer your questions that this is simply not true!  If you are curious about something, GO GET IT.  There is no wall! Get out there and start googling and tinkering, you never know where you might end up!
